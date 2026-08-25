@@ -16,12 +16,4 @@
 - Try 0.7 mm only if the first comparison shows it is needed.
 - Keep Z-hop off for the controlled comparison unless required by the model.
 
-## Export checklist
-
-Before adding an OrcaSlicer profile export:
-
-- Remove printer-network details and other machine-local information.
-- Record the OrcaSlicer version.
-- State the filament brand/type used for validated results.
-- Separate machine limits from filament-specific temperature, flow and cooling values.
 
