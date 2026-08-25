@@ -6,6 +6,21 @@ My Encore Build uses a compact 120 × 120 mm bed, a BTT SKR Mini E3 V3.0, Raspbe
 
 
 
+## Build photographs
+
+<table>
+  <tr>
+    <td><img src="images/IMG_20260719_170604111_HDR.jpg" alt="Encore build view 1" width="280"></td>
+    <td><img src="images/IMG_20260719_170631740_HDR.jpg" alt="Encore build view 2" width="280"></td>
+    <td><img src="images/IMG_20260719_170656406_HDR.jpg" alt="Encore build view 3" width="280"></td>
+  </tr>
+  <tr>
+    <td><img src="images/IMG_20260719_170711142_HDR.jpg" alt="Encore build view 4" width="280"></td>
+    <td><img src="images/IMG_20260801_125920425_HDR.jpg" alt="Encore build view 5" width="280"></td>
+    <td></td>
+  </tr>
+</table>
+
 ## Current status
 
 - Printing successfully with the recurring sideways layer shift resolved.
