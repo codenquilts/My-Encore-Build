@@ -51,8 +51,7 @@ These are results from this particular machine, not universal Encore defaults.
 - [`docs/tuning-log.md`](docs/tuning-log.md) — dated tuning history and next tests.
 - [`docs/parts-list.md`](docs/parts-list.md) — confirmed components and missing details.
 - [`slicer/OrcaSlicer-profile-notes.md`](slicer/OrcaSlicer-profile-notes.md) — confirmed slicer settings and tuning plan.
-- [`models/`](models/) — locations for modified printable parts and their editable sources.
-
+- [`models/`](models/) — See remix folder on Printables for this project
 ## Before using the configuration
 
 The files in `config/` are documentation excerpts, not a complete drop-in configuration. Pin assignments, thermistor types, endstop logic, directions, dimensions and MCU serial paths must be checked against the actual machine. Never copy Wi-Fi credentials, API keys, passwords or another printer's unique serial path.
