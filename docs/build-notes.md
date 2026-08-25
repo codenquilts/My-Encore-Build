@@ -15,7 +15,7 @@ This printer began as a compact Encore CoreXY build and was refined around readi
 | Extrusion | Replaced Bowden setup with Creality K1 direct drive | Shorter filament path and improved extrusion control |
 | Motion | Corrected pulley/belt arrangement and checked belt matching, increased xy driver current | Removed repeating first-layer banding and reduced rough sounds |
 | Cooling | Supplied two 12 V side fans from a 24-to-12 V converter | Added cooling; MCU switching remains optional |
-| Logic power | LM2596 converts 24 V to 5 V for Pi Zero 2 W and ESP32/CYD | Pi stable; ESP32 resets still require investigation |
+| Logic power | LM2596 converts 24 V to 5 V for Pi Zero 2 W and ESP32/CYD | Pi stable; ESP32 resets fixed by adding 220 mfd Cap |
 
 ## Motion fault and resolution
 
