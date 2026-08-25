@@ -49,7 +49,6 @@ These are results from this particular machine, not universal Encore defaults.
 - [`docs/build-notes.md`](docs/build-notes.md) — hardware and commissioning notes.
 - [`docs/wiring.md`](docs/wiring.md) — known wiring information and checks still required.
 - [`docs/tuning-log.md`](docs/tuning-log.md) — dated tuning history and next tests.
-- [`docs/parts-list.md`](docs/parts-list.md) — confirmed components and missing details.
 - [`slicer/OrcaSlicer-profile-notes.md`](slicer/OrcaSlicer-profile-notes.md) — confirmed slicer settings and tuning plan.
 - [`models/`](models/) — See remix folder on Printables for this project
 ## Before using the configuration
