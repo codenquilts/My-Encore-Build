@@ -10,6 +10,7 @@ This is a record of known arrangements, not a substitute for tracing and verifyi
 | ESP32/CYD | Shares the LM2596 5 V supply |  |
 | Side fans | Two 12 V fans from a 24-to-12 V converter |  |
 | K1 extruder | TMC2209 extruder driver at 0.650 A RMS |  |
+| X/Y Motors | TMC2209 extruder driver increased to 0.70 A RMS |  solved out of step issues with diagonal tracking|
 
 ## ESP32/CYD reset investigation
 
