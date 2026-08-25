@@ -1,0 +1,20 @@
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# Local Klipper backups and generated files
+*.cfg.bak
+printer-*.cfg
+klippy.log
+moonraker.log
+
+# Secrets and machine-local settings
+.env
+secrets.cfg
+network.cfg
+
+# Slicer-generated output
+*.gcode
+
