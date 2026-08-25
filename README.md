@@ -55,6 +55,10 @@ The files in `config/` are documentation excerpts, not a complete drop-in config
 
 
 
+## Licence
+
+This project is licensed under the [GNU General Public License v3.0](LICENSE). Modified Encore-derived parts must also retain their applicable upstream copyright, licence and attribution notices.
+
 ## Attribution
 
 Encore is an open-source project by Alex Yu. This repository is an independent build record and is not a replacement for the [original Encore repository](https://github.com/alexyu132/encore). Any original or modified parts added later must retain their applicable upstream attribution and licence notices.
