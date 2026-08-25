@@ -1,6 +1,6 @@
 # My Encore Build
 
-> **Work in progress:** This repository documents an independent build of the open-source [Encore CoreXY printer](https://github.com/alexyu132/encore) designed by Alex Yu. Start with the original project for the authoritative design and assembly information.
+> **Work in progress:** This repository documents an independent build of the open-source [Encore CoreXY printer](https://github.com/alexyu132/encore) designed by Alex Yu. Start with the original project for the authoritative design and assembly information. https://www.printables.com/model/1743331-encore-mini-corexy-3d-printer-with-a-fully-printed/files
 
 My Encore Build uses a compact 120 × 120 mm bed, a BTT SKR Mini E3 V3.0, Raspberry Pi Zero 2 W, Klipper and a Creality K1 direct-drive extruder. This repository records the changes, troubleshooting and tuning that produced a reliable working printer.
 
