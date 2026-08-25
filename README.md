@@ -47,24 +47,13 @@ These are results from this particular machine, not universal Encore defaults.
 
 - [`config/`](config/) — reviewed configuration excerpts and macro documentation.
 - [`docs/build-notes.md`](docs/build-notes.md) — hardware and commissioning notes.
-- [`docs/wiring.md`](docs/wiring.md) — known wiring information and checks still required.
-- [`docs/tuning-log.md`](docs/tuning-log.md) — dated tuning history and next tests.
 - [`slicer/OrcaSlicer-profile-notes.md`](slicer/OrcaSlicer-profile-notes.md) — confirmed slicer settings and tuning plan.
-- [`models/`](models/) — See remix folder on Printables for this project
+
 ## Before using the configuration
 
-The files in `config/` are documentation excerpts, not a complete drop-in configuration. Pin assignments, thermistor types, endstop logic, directions, dimensions and MCU serial paths must be checked against the actual machine. Never copy Wi-Fi credentials, API keys, passwords or another printer's unique serial path.
+The files in `config/` are documentation excerpts, not a complete drop-in configuration. Pin assignments, thermistor types, endstop logic, directions, dimensions and MCU serial paths must be checked against the actual machine. 
 
-## Remaining work
 
-- Record the complete working `printer.cfg` after removing private and machine-unique data.
-- Add final printer, electronics, belt-routing, direct-drive and wiring photographs.
-- Confirm exact motor, pulley, belt, fan, converter and fastener details.
-- Repeat the stringing test at 205 °C, starting with 0.5 mm retraction at 40 mm/s.
-- Tune pressure advance, then fit an accelerometer and tune input shaping.
-- Investigate the intermittent ESP32/CYD resets.
-- Add any modified STL and source files with print settings and clear attribution.
-- Select a licence before public release; see [`LICENSE`](LICENSE).
 
 ## Attribution
 
