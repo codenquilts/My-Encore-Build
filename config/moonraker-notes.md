@@ -6,12 +6,4 @@
 - Klipper service restart behaviour was configured for reliable recovery.
 - Keep the USB 5 V path deliberate; avoid unintended back-powering between supplies.
 
-## Before publishing configuration files
-
-Remove or redact:
-
-- Wi-Fi network names and passwords.
-- API keys and access tokens.
-- Publicly unsuitable hostnames or local addresses.
-- Unique MCU serial paths unless deliberately supplied as an example.
 
