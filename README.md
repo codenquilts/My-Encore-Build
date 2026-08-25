@@ -4,7 +4,7 @@
 
 My Encore Build uses a compact 120 × 120 mm bed, a BTT SKR Mini E3 V3.0, Raspberry Pi Zero 2 W, Klipper and a Creality K1 direct-drive extruder. This repository records the changes, troubleshooting and tuning that produced a reliable working printer.
 
-![Benchy printed during tuning](images/benchy-current-tuning.jpg)
+
 
 ## Current status
 
